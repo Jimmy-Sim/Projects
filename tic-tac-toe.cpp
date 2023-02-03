@@ -91,8 +91,6 @@ void play()
     }
 }
 
-// Tic-tac-toe is a two-player game where players take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. 
-
 void rules()
 {
     cout << "Tic-tac-toe is a two-player game where players\n";
